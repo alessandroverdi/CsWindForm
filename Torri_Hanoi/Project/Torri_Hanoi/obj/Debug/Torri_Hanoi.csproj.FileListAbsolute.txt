@@ -1,0 +1,75 @@
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csprojAssemblyReference.cache
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Form1.resources
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Properties.Resources.resources
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.GenerateResource.cache
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe.config
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.pdb
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.exe
+C:\Users\verdi.16162\Desktop\C#\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.pdb
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csprojAssemblyReference.cache
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Form1.resources
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Properties.Resources.resources
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.GenerateResource.cache
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.exe
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.pdb
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe.config
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe
+C:\Users\averd\Downloads\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.pdb
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe.config
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.pdb
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csprojAssemblyReference.cache
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Form1.resources
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Properties.Resources.resources
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.GenerateResource.cache
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.exe
+C:\Users\verdi.16162\Downloads\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.pdb
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe.config
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.pdb
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csprojAssemblyReference.cache
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Form1.resources
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Properties.Resources.resources
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.GenerateResource.cache
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.exe
+C:\Users\averd\Desktop\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.pdb
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe.config
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.exe
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.pdb
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.pdb
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Form1.resources
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Properties.Resources.resources
+C:\Users\verdi.16162\Downloads\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.GenerateResource.Cache
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csprojAssemblyReference.cache
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.exe
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.pdb
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe.config
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\Torri_Hanoi.pdb
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\NAudio.dll
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\bin\Debug\NAudio.xml
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Form1.resources
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.Properties.Resources.resources
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.GenerateResource.cache
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\averd\Desktop\Sabato\Finale\lol\Torri_Hanoi (1)\Torri_Hanoi\Torri_Hanoi\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.CopyComplete
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe.config
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\bin\Debug\Torri_Hanoi.exe
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\bin\Debug\Torri_Hanoi.pdb
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\bin\Debug\NAudio.dll
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\bin\Debug\NAudio.xml
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\obj\Debug\Torri_Hanoi.csprojAssemblyReference.cache
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\obj\Debug\Torri_Hanoi.Form1.resources
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\obj\Debug\Torri_Hanoi.Properties.Resources.resources
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.GenerateResource.cache
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\obj\Debug\Torri_Hanoi.csproj.CopyComplete
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\obj\Debug\Torri_Hanoi.exe
+C:\Users\averd\Desktop\Torri_Hanoi\Project\Torri_Hanoi\obj\Debug\Torri_Hanoi.pdb

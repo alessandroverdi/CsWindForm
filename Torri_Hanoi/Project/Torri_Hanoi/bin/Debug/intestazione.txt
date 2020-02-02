@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<script>
+function sortTable() {
+  var table, rows, switching, i, x, y, shouldSwitch;
+  table = document.getElementById("myTable");
+  switching = true;
+  while (switching) {
+    switching = false;
+    rows = table.rows;
+    for (i = 1; i < (rows.length - 1); i++) {
+      shouldSwitch = false;
+      x = rows[i].getElementsByTagName("TD")[0];
+      y = rows[i + 1].getElementsByTagName("TD")[0];
+      if (Number(x.innerHTML) < Number(y.innerHTML)) {
+        shouldSwitch = true;
+        break;
+      }
+    }
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+    }
+  }
+}
+</script>
+<title>Torri di Hanoi</title>
+<style>
+h1 {
+  text-align: center;
+  font-size:30px;
+  color:red;
+}
+p {
+  text-align: center;
+  font-size:20px;
+  color:black;
+
+}
+
+table {
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  color: black;
+  text-align: center;
+  font-size:15px;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+</style>
+</head>
+<body onload="sortTable()">
+
+<h1>Ciao, Questa e' la tabella contenente gli score del gioco "Torri di Hanoi" </p>
+<p>Lo score e' calcolato con la formula "MG": </p>
+<p> <b> ( ( Tmin / Timpiegato + MosseMin / Mosseimpiegate ) * 100 ) - 100. </b> </p>
+<p> Va da un minimo di -100 a oltre 100 (Se sei rapido come il computer 1 m/s)! Affrettati e fai poche mosse! </p>
+
+
+<table id="myTable">
+  <tr>
+    <th>SCORE</th>
+    <th>NICKNAME</th>
+	<th>DATA</th>
+  </tr>
+
+<tr>
+<td> 10000 </td>
+<td> Ale </td>
+<td> 10 1 2020 </td>
+</tr>
+
+<td> 9999</td>
+<td> Maggi </td>
+<td> 11 1 2020 </td>
+</tr>
